@@ -1,5 +1,14 @@
-### Hi there 👋
+## 👋 Hello! Welcome to my Github profile. Work in progress... wait for news!
+### My name is Fernando costa Leite and my nickname is Mister-Storm!
 
+#### Contact me
+<div>
+  <a href="https://instagram.com/mister_storm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernando-costa-leite" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+### About
+I'm a software developer and an enthusiast of Computer Science. Graduated in Analysis and Development of Systems in 2019, I have been working since 2020 as a software developer at Softplan.
 <!--
 **Mister-Storm/Mister-Storm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
