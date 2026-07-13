@@ -8,7 +8,7 @@
 </div>
 
 ### About
-I'm a software developer and an enthusiast of Computer Science. Graduated in Analysis and Development of Systems in 2019, I have been working since 2020 as a software developer at Softplan.
+I'm a software developer and an enthusiast of Computer Science. Graduated in Analysis and Development of Systems in 2019, I have been working since 2020 as a software developer at Ifood.
 
 
 
